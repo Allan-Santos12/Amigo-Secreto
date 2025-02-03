@@ -4,16 +4,28 @@ let amigos = [];
 
 function adicionarAmigo() {
     let amigo = document.querySelector('input').value;
-    console.log('Amigo adicionado!');
-   
-}
+    console.log('botão clicado!');
 
-function sortearAmigo(params) {
-    let amigo = document.querySelector
-    
+    if (amigo == ""){
+        alert('Por favor, insira um nome.');
+    }
+    else {
+        if (!isNaN(amigo)){
+        alert('Valor digitado é um número, e não é válido!');
+        }else{
+            amigos.push(amigo);
+            console.log('Nome inserido com sucesso.');
+        }
+        limparCampo();
+    }
 }
 
 function limparCampo() {
     nome = document.querySelector('input');
     nome.value = '';
+}
+
+function sortearAmigo(params) {
+    let amigo = document.querySelector
+    
 }
