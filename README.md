@@ -3,12 +3,12 @@
 ##Jogo para a escolha de um amigo secreto em uma lista que é inserida pelo próprio usuário, ao finalizar a inserção de todos os amigos clicando no botão adicionar, é só clicar no botão sortear e você terá o amigo secreto sorteado da sua lista de amigos inserida.
 
 <p align="center">
-![Badge concluido](https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+<img loading="lazy" src=https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge />
 </p>
 
-<p align="center">
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/Allan-Santos12?style=social)
-</p>
+
 
 # :hammer: Funcionalidades do projeto
 
