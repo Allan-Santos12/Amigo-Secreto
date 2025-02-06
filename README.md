@@ -1,11 +1,14 @@
-<h1 align="center"> # Amigo-Secreto </h1>
-## Jogo para a escolha de um amigo secreto em uma lista que é inserida pelo próprio usuário, ao finalizar a inserção de todos os amigos clicando no botão adicionar, é só clicar no botão sortear e você terá o amigo secreto sorteado da sua lista de amigos inserida.
+<h1 align="center"> Amigo-Secreto </h1>
+
+##Jogo para a escolha de um amigo secreto em uma lista que é inserida pelo próprio usuário, ao finalizar a inserção de todos os amigos clicando no botão adicionar, é só clicar no botão sortear e você terá o amigo secreto sorteado da sua lista de amigos inserida.
 
 <p align="center">
-![Badge concluido ](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+![Badge concluido](https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 </p>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+<p align="center">
+![GitHub Org's stars](https://img.shields.io/github/stars/Allan-Santos12?style=social)
+</p>
 
 # :hammer: Funcionalidades do projeto
 
@@ -22,4 +25,5 @@
 
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/52940012?v=4" width=115><br><sub>Allan Miqueias de Carvalho Santos</sub>](https://github.com/Allan-Santos12) | :---: |
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/52940012?v=4" width=115><br><sub>Allan Miqueias de Carvalho Santos</sub>](https://github.com/Allan-Santos12) |
+| :---: |
